@@ -1,0 +1,1 @@
+โปรเจกต์นี้มีเป้าหมายเพื่อวิเคราะห์ชุดข้อมูลค่ารักษาพยาบาล (insurance.csv) เพื่อทำความเข้าใจปัจจัยที่มีผลต่อค่าใช้จ่าย (charges) และสร้างโมเดล Machine Learning (Regression) เพื่อทำนายค่าใช้จ่ายเหล่านั้น โดยมีการเปรียบเทียบประสิทธิภาพระหว่างโมเดล Linear Regression และ Random Forest Regressor ที่ผ่านการทำ Hyperparameter Tuning (ด้วย GridSearchCV)
